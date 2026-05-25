@@ -6,7 +6,7 @@ nav_order: 1
 description: "AIBIQuery — Enterprise Analytics Powered by AI."
 permalink: /
 ---
-<img width="444" height="451" alt="AIBUIQuery-logo" src="https://github.com/user-attachments/assets/b3199bec-4f75-4271-a08d-c428edf899c4" />
+<img width="222" height="226" alt="AIBUIQuery-logo" src="https://github.com/user-attachments/assets/b3199bec-4f75-4271-a08d-c428edf899c4" />
 # AIBIQuery — Enterprise Analytics Powered by AI
 
 > A complete data intelligence platform for the Data Science & Analytics Community
