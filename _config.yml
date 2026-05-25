@@ -11,8 +11,8 @@ tagline: "Enterprise Analytics Powered by AI"
 description: >
   A complete data intelligence platform for the Data Science & Analytics Community.
   52+ features, 10+ ML algorithms, 100% AI-powered.
-url: "https://aibiquery.github.io/platform-docs/"
-baseurl: "/platform-docs"
+url: "https://aibiquery.github.io"
+baseurl: "/platform-docs/"
 logo: "/assets/images/AIBIQuery-logo.jpg"
 
 # --------------------------
