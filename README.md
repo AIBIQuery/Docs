@@ -6,17 +6,18 @@ description: "AIBIQuery — Enterprise Analytics Powered by AI."
 permalink: /
 ---
 <div align="center">
-<img width="71" height="83" alt="AIBUIQuery-logo" src="https://github.com/user-attachments/assets/b3199bec-4f75-4271-a08d-c428edf899c4" />
+<img width="111" height="113" alt="AIBUIQuery-logo" src="https://github.com/user-attachments/assets/b3199bec-4f75-4271-a08d-c428edf899c4" />
 
 # AIBIQuery — Enterprise Analytics Powered by AI
 
-> A complete data intelligence platform for the Data Science & Analytics Community
+A complete data intelligence platform for the Data Science & Analytics Community
 
 [![Features](https://img.shields.io/badge/Features-52%2B-blue)](#platform-map)
 [![ML Algorithms](https://img.shields.io/badge/ML%20Algorithms-10%2B-green)](#ml--modeling)
 [![AI Powered](https://img.shields.io/badge/AI%20Powered-100%25-orange)](#core-capabilities)
 [![HITL](https://img.shields.io/badge/Human--in--the--Loop-Enabled-purple)](#human-in-the-loop)
 [![Website](https://img.shields.io/badge/Website-aibiquery.com-informational)](https://aibiquery.com)
+
 </div>
 
 ---
