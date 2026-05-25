@@ -263,6 +263,4 @@ Phase 5 (Ongoing)   → Institutionalize & Scale
 
 *Data Science & Analytics Community — Organizations • 2026*
 
-[🚀 Get Started](https://aibiquery.com) · [📖 Platform Guide](#platform-map--7-feature-groups) · [💬 Community](https://aibiquery.com)
-
 </div>
