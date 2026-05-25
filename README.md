@@ -8,9 +8,9 @@ permalink: /
 <div align="center">
 <img width="111" height="113" alt="AIBUIQuery-logo" src="https://github.com/user-attachments/assets/b3199bec-4f75-4271-a08d-c428edf899c4" />
 </div>
-
-# AIBIQuery — Enterprise Analytics Powered by AI
-
+<div align="center">
+## AIBIQuery — Enterprise Analytics Powered by AI
+</div>
 > A complete data intelligence platform for the Data Science & Analytics Community
 
 [![Features](https://img.shields.io/badge/Features-52%2B-blue)](#platform-map)
