@@ -194,7 +194,7 @@ Across every stage of the ML lifecycle, there are critical moments where automat
 | Concept | Description |
 |---|---|
 | 🧪 **Active Learning** | Selectively label records where model uncertainty is highest — maximizing label quality per annotation hour. |
-| ✔️ **Approval Workflow** | Formal human sign-off gates in automated pipelines prevent untested changes from silently reaching production. |
+| ✔️ **Workflow Orchestration** | Airflow-style DAG orchestration for complex data workflows. |
 | 🔎 **Explainable AI (XAI)** | SHAP values and feature importance give humans the tools needed to trust — or challenge — model outputs. |
 | ⚖️ **Bias Auditing** | Human fairness committees review automated bias metrics and decide on mitigation. Algorithms flag; people decide. |
 | 🔄 **Feedback Loops** | Human corrections (label fixes, alert overrides) are systematically captured and fed back as training signal. |
@@ -217,8 +217,7 @@ Across every stage of the ML lifecycle, there are critical moments where automat
 
 ```
 Phase 1 (Wks 1–2)   → Governance Foundations
-                       Configure Role Management, enable Approval Workflow,
-                       assign named Data Stewards to every dataset.
+                       Assign named Data Stewards to every dataset.
 
 Phase 2 (Wks 3–4)   → Instrument the ML Lifecycle
                        Activate Experiment Tracking. Require Model Explanations
