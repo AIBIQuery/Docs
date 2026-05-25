@@ -10,7 +10,7 @@ permalink: /
 
 # AIBIQuery — Enterprise Analytics Powered by AI
 
-A complete data intelligence platform for the Data Science & Analytics Community
+> A complete data intelligence platform for the Data Science & Analytics Community
 
 [![Features](https://img.shields.io/badge/Features-52%2B-blue)](#platform-map)
 [![ML Algorithms](https://img.shields.io/badge/ML%20Algorithms-10%2B-green)](#ml--modeling)
