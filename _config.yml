@@ -31,7 +31,7 @@ author:
 remote_theme: just-the-docs/just-the-docs
 
 # Color scheme: "light" or "dark"
-color_scheme: light
+color_scheme: dark
 
 # --------------------------
 # Navigation
