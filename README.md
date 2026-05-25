@@ -259,9 +259,7 @@ Phase 5 (Ongoing)   → Institutionalize & Scale
 
 <div align="center">
 
-**AIBIQuery Enterprise Analytics Platform**
-
-*Data Science & Analytics Community — Organizations • 2026*
+AIBIQuery Enterprise Analytics Platform - Data Science & Analytics Community — Organizations • 2026
 
 </div>
  
