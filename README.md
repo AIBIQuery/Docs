@@ -47,7 +47,7 @@ permalink: /
 
 ---
 
-## Who Is It For?
+## Who is it for?
 
 | Role | What You Get |
 |---|---|
