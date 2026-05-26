@@ -251,7 +251,7 @@ Phase 4 (Months 2–3)→ Build Active Learning Flows
                        Implement sentiment label review cycles.
 
 Phase 5 (Ongoing)   → Institutionalize & Scale
-                       Publish HITL standards via Story Builder. Conduct quarterly
+                       Publish HITL standards via Story Builder. Conduct quarterly 
                        Bias Audit reviews with a cross-functional fairness committee.
 ```
 
