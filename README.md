@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Docs
 nav_order: 1
 description: "AIBIQuery — Enterprise Analytics Powered by AI."
 permalink: /
@@ -13,7 +13,7 @@ permalink: /
 
 <div align="center">
   
-## AIBIQuery — Enterprise Analytics Powered by AI
+# AIBIQuery — Enterprise Analytics Powered by AI
 
 </div>
 
