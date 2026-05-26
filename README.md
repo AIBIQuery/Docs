@@ -244,7 +244,7 @@ Phase 2 (Wks 3–4)   → Instrument the ML Lifecycle
 
 Phase 3 (Month 2)   → Close the Monitoring Loop
                        Configure Alert Management with human triage assignments.
-                       Establish weekly Diagnostic Report cadence.
+                       Establish weekly Diagnostic Report cadence. 
 
 Phase 4 (Months 2–3)→ Build Active Learning Flows
                        Use Data Explorer uncertainty sampling to prioritize annotation.
