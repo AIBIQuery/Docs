@@ -6,7 +6,9 @@ description: "AIBIQuery — Enterprise Analytics Powered by AI."
 permalink: /
 ---
 <div align="center">
+  
 <img width="111" height="113" alt="AIBUIQuery-logo" src="https://github.com/user-attachments/assets/b3199bec-4f75-4271-a08d-c428edf899c4" />
+
 </div>
 
 <div align="center">
@@ -14,6 +16,7 @@ permalink: /
 ## AIBIQuery — Enterprise Analytics Powered by AI
 
 </div>
+
 
 > *A complete data intelligence platform for the Data Science & Analytics Community*
 
