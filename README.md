@@ -88,7 +88,7 @@ Four foundations that underpin every feature on the platform:
 |---|---|
 | 🤖 **AI / ML** | Embedded machine learning across the full lifecycle — from automated schema detection on ingest to real-time prediction serving at scale. |
 | 📡 **Real-Time Analytics** | Streaming ingestion pipelines combined with live dashboards enable sub-second monitoring of data drift and model performance degradation. |
-| 🔐 **Enterprise Security** | PII detection, end-to-end encryption, and granular audit logs designed to satisfy SOC 2, GDPR, and Fair Lending regulations. |
+| 🔐 **Enterprise Security** | PII detection, end-to-end encryption, GDPR, and Fair Lending regulations. |
 | ☁️ **Cloud Native** | Containerized microservices architecture supports horizontal scaling, multi-cloud deployments, and seamless CI/CD integration for MLOps teams. |
 
 ---
