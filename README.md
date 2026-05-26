@@ -11,11 +11,7 @@ permalink: /
 
 </div>
 
-<div align="center">
-  
-# AIBIQuery — Enterprise Analytics Powered by AI
-
-</div>
+<div align="center"># AIBIQuery — Enterprise Analytics Powered by AI</div>
 
 
 > *A complete data intelligence platform for the Data Science & Analytics Community*
